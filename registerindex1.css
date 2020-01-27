@@ -4,7 +4,7 @@ body {
     margin: 0;
   }
   #navbar {
-    background-color: white;
+    background-color: green;
     position:fixed;
    text-align: right;
     height: 50px;
@@ -22,7 +22,7 @@ body {
   }
 
   .social_image{
-      widows: 30px;
+      width: 30px;
       height: 30px;
 
   }
